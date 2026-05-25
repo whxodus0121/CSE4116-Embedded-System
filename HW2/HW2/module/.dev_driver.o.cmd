@@ -1,0 +1,1 @@
+cmd_/home/embe2024/Downloads/2/module/dev_driver.o := arm-none-linux-gnueabi-ld -EL    -r -o /home/embe2024/Downloads/2/module/dev_driver.o /home/embe2024/Downloads/2/module/device.o /home/embe2024/Downloads/2/module/timer_driver.o 

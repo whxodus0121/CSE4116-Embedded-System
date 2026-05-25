@@ -1,0 +1,1 @@
+cmd_/home/embe2024/Downloads/final_project/module/game_driver.ko := arm-none-linux-gnueabi-ld -EL -r  -T /work/achroimx_kernel/scripts/module-common.lds --build-id  -o /home/embe2024/Downloads/final_project/module/game_driver.ko /home/embe2024/Downloads/final_project/module/game_driver.o /home/embe2024/Downloads/final_project/module/game_driver.mod.o

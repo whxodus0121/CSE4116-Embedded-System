@@ -1,0 +1,1 @@
+cmd_/home/embe2024/Downloads/과제3/module/stopwatch.o := arm-none-linux-gnueabi-ld -EL    -r -o /home/embe2024/Downloads/과제3/module/stopwatch.o /home/embe2024/Downloads/과제3/module/device.o /home/embe2024/Downloads/과제3/module/timer_driver.o 

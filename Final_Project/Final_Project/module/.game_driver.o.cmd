@@ -1,0 +1,1 @@
+cmd_/home/embe2024/Downloads/final_project/module/game_driver.o := arm-none-linux-gnueabi-ld -EL    -r -o /home/embe2024/Downloads/final_project/module/game_driver.o /home/embe2024/Downloads/final_project/module/device.o /home/embe2024/Downloads/final_project/module/roullete_driver.o 
